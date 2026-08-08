@@ -4,7 +4,7 @@ configurations are taken from open sources
 #profile-update-interval: 1
 #support-url: https://telegram.me/tonar_vpn
 #profile-web-page-url: https://telegram.me/tonar_vpn
-#announce: @tonar_vpn, 🚀 - Авто-выбор серверов включен. WI-FI и LTE. Подпишитесь на наш канал!
+#announce: | @tonar_vpn | Бесплатный VPN | WI-FI | LTE | Подпишитесь на наш канал!
 #subscription-userinfo: upload=107000000; download=5368709120; total=5368709120; expire=1786233600
 ​vless://8b311973-3914-4824-ac31-5470191435ca@1-node-soda.com:443?mode=packet-up&path=%2Fapi%2FuploadFile%2F&security=tls&fp=edge&alpn=h2,http/1.1&type=xhttp#🇧🇹 🚀 Авто-Выбор | LTE
 vless://de34642f-21d7-49d2-a8ff-aad30750a929@1-node-soda.com:443?mode=packet-up&path=%2Fapi%2FuploadFile%2F&security=tls&fp=edge&alpn=h2,http/1.1&type=xhttp#🇷🇺 LTE | Белые Списки [1]
