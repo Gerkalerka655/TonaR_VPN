@@ -6,7 +6,7 @@ configurations are taken from open sources
 #profile-web-page-url: https://telegram.me/tonar_vpn
 #announce: | @tonar_vpn | Бесплатный VPN | WI-FI | LTE | Подпишитесь на наш канал!
 #subscription-userinfo: upload=107000000; download=5368709120; total=5368709120; expire=1786233600
-​vless://8b311973-3914-4824-ac31-5470191435ca@1-node-soda.com:443?mode=packet-up&path=%2Fapi%2FuploadFile%2F&security=tls&fp=edge&alpn=h2,http/1.1&type=xhttp#🚀 Авто-Выбор | LTE
+​vless://8b311973-3914-4824-ac31-5470191435ca@1-node-soda.com:443?mode=packet-up&path=%2Fapi%2FuploadFile%2F&security=tls&fp=edge&alpn=h2,http/2.1&type=xhttp#🚀 WL | БЕЛЫЕ СПИСКИ | ОБХОД
 vless://de34642f-21d7-49d2-a8ff-aad30750a929@1-node-soda.com:443?mode=packet-up&path=%2Fapi%2FuploadFile%2F&security=tls&fp=edge&alpn=h2,http/1.1&type=xhttp#🇷🇺 LTE | Белые Списки [1]
 vless://8b311973-3914-4824-ac31-5470191435ca@1-node-soda.com:443?mode=packet-up&path=%2Fapi%2FuploadFile%2F&security=tls&fp=edge&alpn=h2,http/1.1&type=xhttp#🇷🇺 LTE | Белые Списки [2]
 vless://8b311973-3914-4824-ac31-5470191435ca@2-node-soda.com:443?mode=packet-up&path=%2Fapi%2FuploadFile%2F&security=tls&fp=edge&alpn=h2,http/1.1&type=xhttp#🇷🇺 LTE | Белые Списки [3]
@@ -18,7 +18,7 @@ vless://de34642f-21d7-49d2-a8ff-aad30750a929@195.133.198.115:443?flow=xtls-rprx-
 vless://de34642f-21d7-49d2-a8ff-aad30750a929@45.11.27.231:443?flow=xtls-rprx-vision&security=reality&sni=id.pervye.ru&fp=firefox&pbk=y9hgkaFKFTgKL5PHsksGNKuSrd7jBysJ6rBHktu2k1o&sid=6ba85179e30d4fc2&type=tcp#🇷🇺 LTE | Белые Списки [9]
 vless://de34642f-21d7-49d2-a8ff-aad30750a929@193.124.125.229:443?flow=xtls-rprx-vision&security=reality&sni=id.pervye.ru&fp=firefox&pbk=y9hgkaFKFTgKL5PHsksGNKuSrd7jBysJ6rBHktu2k1o&sid=6ba85179e30d4fc2&type=tcp#🇷🇺 LTE | Белые Списки [10]
 vless://de34642f-21d7-49d2-a8ff-aad30750a929@45.11.27.171:443?flow=xtls-rprx-vision&security=reality&sni=id.pervye.ru&fp=firefox&pbk=y9hgkaFKFTgKL5PHsksGNKuSrd7jBysJ6rBHktu2k1o&sid=6ba85179e30d4fc2&type=tcp#🇷🇺 LTE | Белые Списки [11]
-vless://8b311973-3914-4824-ac31-5470191435ca@anyconvertly.com:8443?security=tls&sni=anyconvertly.com&fp=qq&alpn=h2,http/1.1&type=grpc&serviceName=grpc#🇨🇾 🚀 Авто-Выбор | WI-FI
+vless://8b311973-3914-4824-ac31-5470191435ca@anyconvertly.com:8443?security=tls&sni=anyconvertly.com&fp=qq&alpn=h2,http/1.1&type=grpc&serviceName=grpc#🇨🇾 🚀 TonaR VPN | WI-FI |
 vless://8b311973-3914-4824-ac31-5470191435ca@quest-foundry.com:443?flow=xtls-rprx-vision&security=reality&sni=ign.com&fp=qq&pbk=s3hydsweI61BK5Ifd9pPQYAhvOJTFF6jcAxo5dZRDHc&sid=31d365a10d66e826&type=tcp#🇸🇬 WI-FI | Сингапур
 vless://8b311973-3914-4824-ac31-5470191435ca@anyconvertly.com:443?flow=xtls-rprx-vision&security=reality&sni=ign.com&fp=qq&pbk=HWQILukuUCqEK54icGYzoUhq_aNaJNX8ZisS6PGQIxU&sid=adad37f5833cc55d&type=tcp#🇪🇪 WI-FI | Эстония
 vless://8b311973-3914-4824-ac31-5470191435ca@gameconstellation.com:443?flow=xtls-rprx-vision&security=reality&sni=cinema-city.pl&fp=qq&pbk=jFjnqq1Qfx4Po0orB3Ij_mS2zWKowyIXNZwQKmkgrGQ&sid=9e5a335de26d1f5a&type=tcp#🇦🇱 WI-FI | Албания
