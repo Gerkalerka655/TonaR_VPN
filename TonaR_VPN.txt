@@ -1,6 +1,6 @@
 configurations are taken from open sources
 конфигурации берутся из открытых источников
-​#profile-title:[| T o n a R   V P N |] 
+​#profile-title: [| T o n a R   V P N |] 
 #profile-update-interval: 12
 #support-url: https://telegram.me/tonar_vpn
 #profile-web-page-url: https://telegram.me/TonaR_VPN
@@ -32,3 +32,4 @@ vless://8b311973-3914-4824-ac31-5470191435ca@quest-foundry.com:8443?security=tls
 vless://8b311973-3914-4824-ac31-5470191435ca@anyconvertly.com:8443?security=tls&sni=anyconvertly.com&fp=qq&alpn=h2,http/1.1&type=grpc&serviceName=grpc#🇹🇷 WI-FI | Турция
 vless://8b311973-3914-4824-ac31-5470191435ca@gameconstellation.com:8443?security=tls&sni=gameconstellation.com&fp=qq&alpn=h2,http/1.1&type=grpc&serviceName=grpc#🇲🇩 WI-FI | Молдова
 vless://8b311973-3914-4824-ac31-5470191435ca@gameconstellation.com:8443?security=tls&sni=gameconstellation.com&fp=qq&alpn=h2,http/1.1&type=grpc&serviceName=grpc#🇵🇱 WI-FI | Польша
+vless://de34642f-21d7-49d2-a8ff-aad30750a929@45.11.27.171:443?security=reality&sni=id.pervye.ru&fp=firefox&pbk=y9hgkaFKFTgKL5PHsksGNKuSrd7jBysJ6rBHktu2k1o&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%BE%20Wi-Fi%20%7C%20%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C
