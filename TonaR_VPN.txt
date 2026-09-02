@@ -5,7 +5,7 @@ configurations are taken from open sources
 #support-url: https://telegram.me/tonar_vpn
 #profile-web-page-url: https://telegram.me/TonaR_VPN
 #announce: | @tonar_vpn | Бесплатный VPN | WI-FI | LTE | Подпишитесь на наш канал! | обновлено : 8.08.2026 12:10:25 | ⚠️ РАБОТАЕТ ТОЛЬКО РЕЗЕРВ ⚠️ |
-#subscription-userinfo: upload=888; download=888; total=0; expire=253402300799
+#subscription-userinfo: upload=8888; download=8888; total=0; expire=253402300799
 ​vless://8b311973-3914-4824-ac31-5470191435ca@1-node-soda.com:443?mode=packet-up&path=%2Fapi%2FuploadFile%2F&security=tls&fp=edge&alpn=h2,http/2.1&type=xhttp#🇧🇹 WL | БЕЛЫЕ СПИСКИ | ОБХОД 
 vless://de34642f-21d7-49d2-a8ff-aad30750a929@1-node-soda.com:443?mode=packet-up&path=%2Fapi%2FuploadFile%2F&security=tls&fp=edge&alpn=h2,http/1.1&type=xhttp#🇧🇹 WL | БЕЛЫЕ СПИСКИ | ОБХОД
 vless://de34642f-21d7-49d2-a8ff-aad30750a929@1-node-soda.com:443?mode=packet-up&path=%2Fapi%2FuploadFile%2F&security=tls&fp=edge&alpn=h2,http/1.1&type=xhttp#🇷🇺 LTE | Белые Списки [1]
